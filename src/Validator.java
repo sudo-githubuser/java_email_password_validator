@@ -10,5 +10,4 @@ public class Validator {
                 && password.matches(".*\\d.*")
                 && password.matches(".*[!@#$%^&*].*");
     }
-
 }
